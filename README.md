@@ -10,9 +10,18 @@ https://www.rust-lang.org/tools/install
 
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
-## Run
+## Build & Run
 
 ```
-$ rustc main.rs
+$ cargo build
+$ cargo run
+```
+
+- [First Steps with Cargo](https://doc.rust-lang.org/cargo/getting-started/first-steps.html)
+
+### Without Cargo
+
+```
+$ rustc src/main.rs
 $ ./main
 ```
