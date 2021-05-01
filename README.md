@@ -16,11 +16,13 @@ https://www.rust-lang.org/tools/install
 $ cargo run
 ```
 
-- [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
-
 ### Without Cargo
 
 ```
 $ rustc src/main.rs
 $ ./main
 ```
+
+## Books
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [The Cargo Book](https://doc.rust-lang.org/cargo/)
