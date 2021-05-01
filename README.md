@@ -16,7 +16,7 @@ https://www.rust-lang.org/tools/install
 $ cargo run
 ```
 
-- [First Steps with Cargo](https://doc.rust-lang.org/cargo/getting-started/first-steps.html)
+- [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 
 ### Without Cargo
 
